@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hello_world
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# blockchain_decentralized-application
+Blockchain et Application décentralisée DAPP
+>>>>>>> 512929cbb12a4a2549647200438cef8cd8749076
